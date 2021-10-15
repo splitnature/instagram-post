@@ -97,14 +97,13 @@ p1{ position: relative;
     height: 85px;
     padding: 5px;
     text-align: center;
-    text-size-adjust:calc();
     background-color:white;
-    object-fit:contain;
     font-family: 'Karla', sans-serif;
     
     
 }
 p2{ font-size:12px;
+   
     }
 
 
